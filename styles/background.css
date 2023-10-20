@@ -1,0 +1,91 @@
+.body {
+	color: #5D5A88;
+	background-color: #fff;
+}
+
+.secondary-color {
+	color: #9795B5;
+}
+
+.header {
+	background-color: #F9F9FF;
+}
+
+.link {
+	color: #5D5A88;
+}
+
+.link:hover {
+    color: #1500FF;
+}
+
+.link:active {
+    color: #000;
+}
+
+.bg {
+	height: 570px;
+	margin: 50px 0 100px;
+	background-color: #F2F1FA;
+	background-image: url(../images/css-logo.png);
+	background-repeat: no-repeat;
+}
+
+.bg_center {
+	background-position: center;
+}
+
+.bg_center-x {
+	background-position-x: center;
+}
+
+.bg_center-y {
+	background-position-y: center;
+}
+
+.bg_right {
+	background-position-x: right;
+}
+
+.bg_bottom {
+	background-position-y: bottom;
+}
+
+.bg_repeat {
+	background-repeat: initial;
+}
+
+.bg_repeat-x {
+	background-repeat: repeat-x;
+}
+
+.bg_repeat-y {
+	background-repeat: repeat-y;
+}
+
+.bg_medium {
+	background-size: auto 263px;
+}
+
+.bg_large {
+	background-size: auto 50%;
+}
+
+.bg_small {
+	background-size: auto 249px;
+}
+
+.bg_double {
+	background-color: #fff;
+	background-image: url(../images/css-logo-light.png), url(../images/bg-img.jpg);
+	background-position: center;
+	background-size: auto 50%, 100% auto;
+}
+
+.footer {
+    color: #9795B5;
+}
+
+.footer__link {
+    color: #ADABC3;;
+}
